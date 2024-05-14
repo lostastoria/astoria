@@ -4,6 +4,7 @@
 }
 
 .flex-container > div {
+  background-color: #22dead;
   width: 100px;
   text-align: left;
 }
