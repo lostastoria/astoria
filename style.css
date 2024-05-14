@@ -1,3 +1,7 @@
+body {
+  marginL 0;
+}
+
 .flex-container {
   display:flex;
   background-color: #22dead;
