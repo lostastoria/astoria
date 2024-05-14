@@ -1,4 +1,9 @@
 .flex-container {
   display:flex;
+  background-color: #22dead;
 }
 
+.flex-container > div {
+  width: 100px;
+  text-align: left;
+}
